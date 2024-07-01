@@ -10,4 +10,4 @@ El objetivo de la práctica es conectar una base de datos en SQL Server para gua
 ### TIC TAT TOE
 Antes de comenzar el juego, se seleccionan ambos jugadores, como requisito estos deben estar guardados en la base de datos. El primer jugador selecciona si desea jugar con **X** u **O**, al segundo jugador se le asigna el opuesto al que anteriormente selecciono el jugador 1. El juego comienza por turnos, y al ganador se le acumulan los puntos en la base de datos, en caso de ser empate, no se otorga ningun punto.
 
-![Imagen CRUD](imagenes/img2).
+![Imagen juego](imagenes/img2).
